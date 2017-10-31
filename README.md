@@ -1,2 +1,6 @@
-# udacity
-Udacity data files
+# Data files from Udacity course
+
+- Files
+- Certifieds
+- Datasets
+- Etc.
